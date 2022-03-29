@@ -1,4 +1,4 @@
-# Critical-Event-ID-Detector
+# Critical Event ID Detector
 Windows text-to-speech critical event ID detector.
 It is a GUI based windows critical event ID detector which will keep you updated on what event IDs are running in the background.
 
